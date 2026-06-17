@@ -7,8 +7,7 @@ An end-to-end data analytics project analyzing coffee shop sales to uncover tren
 ## 📊 Dashboard Preview
 
 ### Sales Overview Dashboard
-<img width="1890" height="922" alt="coffee-sales-dashboard" src="https://github.com/user-attachments/assets/63638ce0-7786-47b5-a57e-4619a0d8e825" />
-
+<img width="1887" height="915" alt="coffee-sales-dashboard" src="https://github.com/user-attachments/assets/c75ed1b9-bd0e-4f55-928c-a341dc7d1f96" />
 
 *Interactive Tableau dashboard showcasing revenue trends, top-selling products, and sales distribution across time, and coffee types.*
 
